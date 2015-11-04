@@ -1,4 +1,5 @@
 ﻿<?php
+// traduzido por megasantos
 return array(	
 	// Generic/Misc.
 	'YesLabel'                => 'Sim',
